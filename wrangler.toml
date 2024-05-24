@@ -4,6 +4,11 @@ main = "src/index.ts"
 compatibility_date = "2024-05-12"
 compatibility_flags = ["nodejs_compat"]
 
+[[d1_databases]]
+binding = "DB"
+database_name = "photo-service"
+database_id = "35267a8b-30db-4a96-9138-feecbdc589d9"
+
 # [triggers]
 # crons = ["*/15 * * * *"] # every 15 min
 
